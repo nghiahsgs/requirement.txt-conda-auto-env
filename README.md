@@ -9,4 +9,6 @@ conda list --export > requirements.txt
 conda install --file requirements.txt
 
 OR
+```
 conda create --name <env> --file <this file>
+```
