@@ -12,3 +12,18 @@ OR
 ```
 conda create --name <env> --file <this file>
 ```
+
+Trong trường hợp thiếu thư viện thì nhồi đống này vào là đủ
+```
+conda install -c conda-forge slugify
+pip3 install python-slugify
+conda install -c anaconda pillow
+conda install -c anaconda numpy
+conda install -c conda-forge opencv
+conda install -c anaconda beautifulsoup4
+conda install -c anaconda requests
+conda install -c anaconda selenium
+pip3 install youtube-transcript-api
+conda install -c conda-forge peewee
+pip3 install pymysql
+```
