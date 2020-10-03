@@ -6,8 +6,10 @@ requirement.txt conda auto env
 conda list --export > requirements.txt
 
 ### 2: Create new env and install all package in new env
+```
 conda create --name auto
 conda install --file requirements.txt
+```
 
 
 Trong trường hợp thiếu thư viện thì nhồi đống này vào là đủ
