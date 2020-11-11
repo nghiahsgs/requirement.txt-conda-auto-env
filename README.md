@@ -26,5 +26,6 @@ conda install -c anaconda requests
 conda install -c anaconda selenium
 pip3 install youtube-transcript-api
 conda install -c conda-forge peewee
+conda install -c anaconda flask
 pip3 install pymysql
 ```
