@@ -16,16 +16,16 @@ conda install --file requirements.txt
 
 Trong trường hợp thiếu thư viện thì nhồi đống này vào là đủ
 ```
-conda install -c conda-forge slugify
-pip3 install python-slugify
-conda install -c anaconda pillow
-conda install -c anaconda numpy
-conda install -c conda-forge opencv
-conda install -c anaconda beautifulsoup4
-conda install -c anaconda requests
-conda install -c anaconda selenium
-pip3 install youtube-transcript-api
-conda install -c conda-forge peewee
-conda install -c anaconda flask
-pip3 install pymysql
+yes Y | conda install -c conda-forge slugify
+yes Y | pip3 install python-slugify
+yes Y | conda install -c anaconda pillow
+yes Y | conda install -c anaconda numpy
+yes Y | conda install -c conda-forge opencv
+yes Y | conda install -c anaconda beautifulsoup4
+yes Y | conda install -c anaconda requests
+yes Y | conda install -c anaconda selenium
+yes Y | pip3 install youtube-transcript-api
+yes Y | conda install -c conda-forge peewee
+yes Y | conda install -c anaconda flask
+yes Y | pip3 install pymysql
 ```
