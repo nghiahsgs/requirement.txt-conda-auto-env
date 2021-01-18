@@ -8,7 +8,7 @@ conda list --export > requirements.txt
 ### 2: Create new env and install all package in new env
 ```
 conda create -n auto2 python=3.7
-
+conda activate auto2
 conda install --file requirements.txt
 ```
 
