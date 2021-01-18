@@ -13,7 +13,7 @@ conda install --file requirements.txt
 ```
 
 
-Trong trường hợp thiếu thư viện thì nhồi đống này vào là đủ
+Trong trường hợp thiếu thư viện thì nhồi đống này vào là đủ (tạo file bash và cho các dòng dưới vào)
 ```
 yes Y | conda install -c conda-forge slugify
 yes Y | pip3 install python-slugify
