@@ -27,4 +27,5 @@ yes Y | pip3 install youtube-transcript-api
 yes Y | conda install -c conda-forge peewee
 yes Y | conda install -c anaconda flask
 yes Y | pip3 install pymysql
+yes Y | pip install flask_cors
 ```
