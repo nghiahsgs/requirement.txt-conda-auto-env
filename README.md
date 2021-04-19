@@ -29,3 +29,9 @@ yes Y | conda install -c anaconda flask
 yes Y | pip3 install pymysql
 yes Y | pip install flask_cors
 ```
+
+Cách xóa một môi trường conda
+```
+conda env list
+conda env remove -n keras1
+```
