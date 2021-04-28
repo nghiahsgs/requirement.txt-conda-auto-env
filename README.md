@@ -29,6 +29,7 @@ yes Y | conda install -c anaconda flask
 yes Y | pip3 install pymysql
 yes Y | pip install flask_cors
 yes Y | pip install pandas
+yes Y | pip install requests_futures
 ```
 
 Cách xóa một môi trường conda
