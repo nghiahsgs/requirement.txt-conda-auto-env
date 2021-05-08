@@ -18,6 +18,7 @@ Trong trường hợp thiếu thư viện thì nhồi đống này vào là đ�
 ```
 conda install -y ipython matplotlib pandas
 conda list
+conda remove matplotlib
 ```
 ```
 yes Y | conda install -c conda-forge slugify
