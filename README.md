@@ -17,6 +17,7 @@ Trong trường hợp thiếu thư viện thì nhồi đống này vào là đ�
 *-y la auto dong y yes
 ```
 conda install -y ipython matplotlib pandas
+conda list
 ```
 ```
 yes Y | conda install -c conda-forge slugify
