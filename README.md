@@ -38,6 +38,7 @@ yes Y | pip install pandas
 yes Y | pip install requests_futures
 yes Y | pip install sqlalchemy
 yes Y | pip install matplotlib
+yes Y | pip install python-dotenv
 ```
 
 Cách xóa một môi trường conda
