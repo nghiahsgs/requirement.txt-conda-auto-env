@@ -41,6 +41,28 @@ yes Y | pip install matplotlib
 yes Y | pip install python-dotenv
 ```
 
+```
+pip install slugify
+pip install python-slugify
+pip install pillow
+pip install numpy
+pip install opencv-python
+pip install beautifulsoup4
+pip install requests
+pip install selenium
+pip install youtube-transcript-api
+pip install peewee
+pip install flask
+pip install pymysql
+pip install flask_cors
+pip install pandas
+pip install requests_futures
+pip install sqlalchemy
+pip install matplotlib
+pip install python-dotenv
+pip install fastapi
+```
+
 Cách xóa một môi trường conda
 ```
 conda env list
