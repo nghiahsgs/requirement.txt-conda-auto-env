@@ -61,6 +61,8 @@ pip install sqlalchemy
 pip install matplotlib
 pip install python-dotenv
 pip install fastapi
+pip install redis
+pip install rq
 ```
 
 Cách xóa một môi trường conda
